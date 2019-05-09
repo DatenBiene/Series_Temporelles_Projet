@@ -1,16 +1,9 @@
-# Series_Temporelles_Projet
-Projet de Series Temporelles linéaires | Ensae 2eme année
+# Modeling and Forecasting of the production of distilled alcoholic beverages in France
 
-# Date de rendu 
-19 mai 2019 par courriel à votre chargé de TD
+This study is a project carried out for the linear time series course in the second year of the ENSAE engineering curriculum.
+This work was conducted by Pierre Delanoue and Johan Macq
 
-Bonne répartition de l'espace du rapport :
-Question 1 : 1 page 1/5
-Question2 2 : 2 pages 2/5
-Question2 3 : 2 pages 2/5
-
-# Nos donnéees 
-
-Evolution  de  l’indice brut de  la  production  industrielle  de  boissons  alcooliques distillées allant de janvier 1990 à janvier 2019 de base 100 en 2015.
+# Data 
+Evolution of the gross index of industrial production of distilled alcoholic beverages from January 1990 to January 2019 in France, base 100 in 2015 :
 
 https://www.insee.fr/fr/statistiques/series/108695026?INDICATEUR=2765760&NAF2=2377140&PERIODICITE=2224021&ZONE_GEO=2320658&qserie=indice+brut
